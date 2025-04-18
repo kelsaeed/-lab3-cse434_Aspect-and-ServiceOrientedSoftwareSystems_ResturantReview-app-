@@ -4,7 +4,9 @@
 # CeView - Lab 3 (CSE434)
 
 A mini project for **Aspect- and Service-Oriented Software Systems (CSE434)** - Spring 2025  
-This project implements CRUD operations for two entities (`User` and `Review`) using Spring Boot and PostgreSQL. The application follows aspect-oriented and service-oriented architecture principles and is integrated with Docker for database management.
+This project implements CRUD operations for two entities (`User` and `Review`) using Spring Boot and
+ PostgreSQL. The application follows aspect-oriented and service-oriented architecture principles
+ and is integrated with Docker for database management.
 
 ## Lab Requirements Implemented
 
@@ -78,5 +80,3 @@ The application will be available at: [http://localhost:8080](http://localhost:8
 - Postman
 
 ```
-
-You can now paste this directly into your GitHub README editor. Let me know if you'd like to add screenshots, diagrams, or contributor sections.
